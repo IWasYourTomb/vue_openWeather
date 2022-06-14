@@ -1,6 +1,6 @@
 # test
 
-> test
+> weather application with openWetaherMap and vue.js
 
 ## Build Setup
 
