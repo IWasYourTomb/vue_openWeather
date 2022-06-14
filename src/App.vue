@@ -57,7 +57,6 @@ export default {
     setResults (results) {
       this.weather = results
     },
-    // creating dates for the weather
     dateBuilder () {
       let d = new Date()
       let months = [
